@@ -2,7 +2,7 @@
 """
 将 index.html 及所有依赖打包为单个独立 HTML 文件。
 用法：python build.py
-输出：QQ记录整理log工具.html
+输出：QQ跑团记录着色器.html
 """
 import re
 import os
@@ -10,7 +10,7 @@ import base64
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 SRC  = os.path.join(BASE, 'index.html')
-OUT  = os.path.join(BASE, 'QQ记录整理log工具.html')
+OUT  = os.path.join(BASE, 'QQ跑团记录着色器.html')
 
 with open(SRC, 'r', encoding='utf-8') as f:
     html = f.read()
