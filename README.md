@@ -7,8 +7,6 @@ TRPG LogPainter — QQ跑团记录着色器
 
 项目地址：https://github.com/willyssalu-arch/logPainter
 
-![效果预览](example1.png)
-
 # 功能
 
 ## 工作方式
@@ -16,6 +14,9 @@ TRPG LogPainter — QQ跑团记录着色器
 下载该项目，直接打开index.html使用
 本项目暂未放置远程部署，有需要的人可以自行部署一下！最好也能分享给我！（？
 相比原项目增加了大量颜色、昵称置灰、格式兼容、图片展示等，有需要的功能也可以联系咱，咱有空的时候搞搞。
+
+![效果预览](example1.png)
+![颜色预览](example2.png)
 
 
 
